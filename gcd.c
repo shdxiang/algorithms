@@ -12,7 +12,7 @@ int gcd(int i, int j) {
 }
 
 int main(int argc, char const *argv[]) {
-  if (argc < 2) {
+  if (argc < 3) {
     printf("usage: %s <integer> <integer>\n", argv[0]);
     return 0;
   }
