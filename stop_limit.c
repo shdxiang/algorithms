@@ -44,7 +44,7 @@ int main(int argc, char const *argv[])
     printf("Trades in each test: %d\n", TRADE_COUNT);
     printf("Stop limit: %d\n", STOP_LIMIT);
 
-    printf("Trading\n");
+    printf("Trading...\n");
 
     srand(time(NULL));
 
