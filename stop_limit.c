@@ -4,7 +4,7 @@
 
 static int TEST_COUNT = 0;
 static int TRADE_COUNT = 0;
-static int STOP_LIMIT = -0;
+static int STOP_LIMIT = 0;
 
 static inline int random_pnl()
 {
