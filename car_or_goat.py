@@ -4,7 +4,6 @@
 
 import random
 import logging
-import datetime
 
 CHOICES = [1, 2, 3]
 
