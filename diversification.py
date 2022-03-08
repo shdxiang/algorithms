@@ -1,7 +1,7 @@
 # https://en.wikipedia.org/wiki/Diversification_(finance)
+
 import random
 import logging
-import datetime
 
 PROFIT_PROBABLITY = 0.5
 
